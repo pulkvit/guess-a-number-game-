@@ -28,7 +28,7 @@ Function: computer_guess(x)
     `c` → correct  
 
 The computer uses a shrinking range to reach the correct number.
-#Technologies used
+#3. Technologies used
 pycharm
 
 
