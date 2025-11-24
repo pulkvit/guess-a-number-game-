@@ -7,30 +7,22 @@ Scope of the Project
 
 The project includes two different game modes:
 
-Player Guess Mode
+1.Player Guess Mode
 In this mode, the computer randomly chooses a number, and the player tries to guess it. After each guess, the player receives hints to help narrow it down.
 
-Computer Guess Mode
+2.Computer Guess Mode
 Here, the player thinks of a number, and the computer tries to guess it. Based on the player’s feedback (too high, too low, or correct), the computer adjusts its guesses.
-
 Everything runs in the terminal, and the project uses only basic Python—no extra libraries are needed besides the built-in random module.
 
-Target Users
+3.Target Users
+a.Students who are learning Python
+b.Beginners who want to improve logical thinking and condition-based decision making
+c.Anyone looking for a simple, fun command-line game
 
-Students who are learning Python
-
-Beginners who want to improve logical thinking and condition-based decision making
-
-Anyone looking for a simple, fun command-line game
-
-High-Level Features
-
-Random number generation
-
-Hint system for guessing
-
-Two separate game modes
-
-User input validation
+4.High-Level Features
+a.Random number generation
+b.Hint system for guessing
+c.Two separate game modes
+d.User input validation
 
 Adjustable range in the computer-guessing mode
