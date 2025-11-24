@@ -1,12 +1,9 @@
 # guess-a-number-game-
 the guess a number which includes the player to guess a number and also the machine to guess a number.
-# Guess the Number – Python Project
 
 
 
-A simple Python project that includes two modes:
-1. The player guesses a number chosen by the computer.
-2. The computer guesses a number thought of by the player.
+
 
 ---
 
