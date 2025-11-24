@@ -2,7 +2,7 @@
 the guess a number which includes the player to guess a number and also the machine to guess a number.
 # Guess the Number – Python Project
 
-# Guess-a-Number Game
+
 
 A simple Python project that includes two modes:
 1. The player guesses a number chosen by the computer.
@@ -10,9 +10,9 @@ A simple Python project that includes two modes:
 
 ---
 
-## 🎮 Guess the Number – Python Project
+## Guess the Number – Python Project
 
-### 📌 Overview
+###  Overview
 This project is a basic Python-based "Guess the Number" game.  
 It contains **two interactive modes**:
 
@@ -23,9 +23,9 @@ Both versions run in a terminal and use loops, conditionals, user input, and the
 
 ---
 
-## 🕹 Game Modes
+##  Game Modes
 
-### 1️⃣ Player Guesses the Number
+### 1️ Player Guesses the Number
 **Function:** `guess(x)`
 
 - The computer selects a random number between **1 and x**.
@@ -36,7 +36,7 @@ Both versions run in a terminal and use loops, conditionals, user input, and the
 
 ---
 
-### 2️⃣ Computer Guesses the Number
+### 2️.Computer Guesses the Number
 **Function:** `computer_guess(x)`
 
 - The player thinks of a number between **1 and x**.
@@ -50,7 +50,7 @@ The computer adjusts its range based on the hints and eventually reaches the rig
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 - **Python 3**
 - **PyCharm** (for running and editing the code)
 - Built-in Python modules (especially `random`)
